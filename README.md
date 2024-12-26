@@ -1,6 +1,7 @@
 <p align="center"><img src="https://socialify.git.ci/gedenarendra/UAS_STATISTIKA/image?custom_description=I+GEDE+NARENDRA+YASA_2415091086_1-DPS%0AAnalisis+%26+interpretasi&amp;description=1&amp;font=Bitter&amp;language=1&amp;logo=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F306678%2Frstudio.svg&amp;name=1&amp;pattern=Overlapping+Hexagons&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-<p align="center"><img src="https://img.shields.io/badge/Analisis-Interpretasi-red" alt="shields"><img src="https://img.shields.io/badge/R_Studio-blue" alt="shields"></p>
+<p align="center"><img src="https://img.shields.io/badge/Analisis-Interpretasi-red" alt="shields">
+<img src="https://img.shields.io/badge/R_Studio-blue" alt="shields"></p>
 
   
 <h1>1. Analisis:</h1>
